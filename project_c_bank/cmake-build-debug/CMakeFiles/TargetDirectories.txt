@@ -1,0 +1,3 @@
+/Users/tranhoangthanh/Documents/project_c_bank/cmake-build-debug/CMakeFiles/project_c_bank.dir
+/Users/tranhoangthanh/Documents/project_c_bank/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tranhoangthanh/Documents/project_c_bank/cmake-build-debug/CMakeFiles/rebuild_cache.dir
