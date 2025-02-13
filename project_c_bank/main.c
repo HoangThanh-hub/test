@@ -5,8 +5,12 @@
 #include "/Users/tranhoangthanh/Documents/project_c_bank/include/function.h"
 
 int main(void) {
-    addUser();
-    readUserData();
+    while (true) {
+
+        mainMenu();
+
+        backToMenu();
+    }
 
 
 

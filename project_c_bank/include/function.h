@@ -16,7 +16,7 @@
 
 void mainMenu();
 
-void runMainMenu();
+
 
 void menuAdmin();
 
@@ -32,3 +32,9 @@ void readUserData();
 
 //them user
 void addUser();
+// tim kiem nguoi dung
+void searchUserByName();
+// chi tiet nguoi dung
+void detailUser();
+//back
+void backToMenu();
