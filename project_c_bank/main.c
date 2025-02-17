@@ -8,7 +8,6 @@ int main(void) {
     while (true) {
 
         mainMenu();
-
         backToMenu();
     }
 

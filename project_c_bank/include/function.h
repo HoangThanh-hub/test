@@ -8,7 +8,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
-#include "/Users/tranhoangthanh/Documents/project_bankManagement/include/datatype.h"
+#include "//Users/tranhoangthanh/Documents/project_c_bank/include/datatype.h"
 
 
 // dinh nghia ham
@@ -38,3 +38,11 @@ void searchUserByName();
 void detailUser();
 //back
 void backToMenu();
+// sap xep
+void sortUsersByName();
+//khoá họăc mở khoá
+void lockOrUnlockUser();
+//hien thi man hinh rieng
+void clearScreen();
+//check xem co bi trung kh
+int isUserExists(const char *value, int type);

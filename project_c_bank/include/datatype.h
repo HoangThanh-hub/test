@@ -39,9 +39,14 @@ struct User {
     char userId[10];
     char userName[20];
     struct Date dateOfBirth;
-    int gender;
-    char phoneNumber[15];
+    bool gender;
+
     char email[25];
+    char email1[25];
+
+    char phone[25];
+    bool status;
+    char password[10];
 };
 
 
