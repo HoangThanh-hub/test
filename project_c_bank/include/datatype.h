@@ -45,6 +45,7 @@ struct User {
     char email1[25];
 
     char phone[25];
+    char phone1[25];
     bool status;
     char password[10];
 };
